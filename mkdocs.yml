@@ -1,0 +1,10 @@
+site_name: 5mzb 文档中心
+theme:
+  name: readthedocs
+nav:
+  - 概览: index.md
+  - 编码规范:
+    - Python: style-guide-python.md
+  - 接口（RESTful）:
+    - 用户: api-user.md
+    - 收支记录: api-record.md
