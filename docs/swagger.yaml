@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  description: 五毛账本
+  description: 五毛账本：个人财务管理系统
   version: 1.0.0
   title: 5MZB
   termsOfService: 'http://5mzb.com/terms/'
